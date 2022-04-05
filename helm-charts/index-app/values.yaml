@@ -1,0 +1,6 @@
+image:
+  repository: <acr-name>
+  name: <image-name>
+  tag: <image-tag>
+
+namespace: <namespace>
